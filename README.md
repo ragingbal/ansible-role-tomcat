@@ -23,7 +23,7 @@ Example Playbook
     - hosts: all
       roles:
          - ragingbal.java8
-         - ragingbal.tomcat8
+         - ragingbal.tomcat
 
 License
 -------
